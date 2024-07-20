@@ -5,7 +5,9 @@ This repository contains useful code snippets and utility scripts collected from
 ## Contents
 
 Audio File Trimmer: Trims audio files to a specified length or duration. Useful for processing and editing audio files.
+
 PDF to Image Converter: Converts PDF files into image formats (e.g., PNG, JPEG). Handy for extracting images from PDFs or converting document pages into images.
+
 WAV to Spectrogram Converter: Converts WAV audio files into spectrogram images. Useful for visualizing audio frequency content over time.
 
 ## Usage
